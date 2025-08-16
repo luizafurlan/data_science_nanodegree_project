@@ -3,6 +3,8 @@ Sparkify User Churn Prediction Project 🎵
 # Overview
 Sparkify is a music streaming service, similar to Spotify or Apple Music. This project analyzes user behavior data to predict customer churn using Apache Spark and Machine Learning techniques. The goal is to identify users who are likely to cancel their subscription before they actually do, enabling the business to take proactive retention measures.
 
+[Check the Blog Post Here!](https://medium.com/@luizaferrazfurlan/what-if-we-could-predict-a-user-churn-to-perform-retention-campaigns-e10253c14d91)
+
 # 📋 Project Description
 This project uses a dataset containing user interaction logs from the Sparkify music streaming platform. 
 The analysis includes:
