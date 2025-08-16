@@ -97,7 +97,7 @@ sparkify-churn-prediction/
 │
 ├── sparkify.ipynb          # Main analysis notebook
 ├── README.md                 # This file
-├── data/                     # Data directory
+├── mini_sparkify_event_data.zip    # Data directory in ZIP (to reduce mb)
 │   └── mini_sparkify_event_data.json
 └── models/                   # Saved models
 
