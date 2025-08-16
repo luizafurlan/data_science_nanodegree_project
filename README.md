@@ -55,7 +55,7 @@ export PATH=$JAVA_HOME/bin:$PATH
 pip install pyspark pandas numpy matplotlib seaborn
 Running the Project
     1. Start the notebook
-jupyter notebook sparkify_5.ipynb
+jupyter notebook sparkify_churn_prediction.ipynb
     2. Or run specific sections
         ◦ Data loading and cleaning
         ◦ Exploratory data analysis
